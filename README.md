@@ -8,4 +8,5 @@ After forking this repository, you can make some changes to the project, and sub
 
 ĐÂY LÀ CHỈNH SỮA TẠI LOCAL - FORK - RỒI CHÚNG TA THỬ FETCH VỀ XEM SAO
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
-OLALALALA - CHUNG TA CHINH NO VAO NGÀY 9/6 NÈ
+OLALALALA - CHUNG TA CHINH NO VAO NGÀY 9/6 NÈ.
+2:40pm modyfy
